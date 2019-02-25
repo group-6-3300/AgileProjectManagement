@@ -16,8 +16,8 @@
 title: Agile Project Management Manual
 email: cbare3@uncc.edu
 description: A site about project management.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/AgileProjectManagement" # the subpath of your site, e.g. /blog
+url: "https://group-6-3300.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
