@@ -23,7 +23,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
+# theme: jekyll-athena
+remote_theme: athena/broccolini
 plugins:
   - jekyll-feed
 
