@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Agile Project Management Manual
+author: Christopher Bare
 email: cbare3@uncc.edu
 description: A site about project management.
 baseurl: "/AgileProjectManagement" # the subpath of your site, e.g. /blog
 url: "https://group-6-3300.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ChristopherBare
 
 # Build settings
 markdown: kramdown
