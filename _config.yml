@@ -23,11 +23,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: jekyll-athena
-=======
-theme: jekyll-theme-architect
->>>>>>> 595a701e875f8e03815531a2a364dc03aeb18009
 plugins:
   - jekyll-feed
 
