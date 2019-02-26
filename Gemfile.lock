@@ -60,7 +60,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.5)
+  jekyll
   jekyll-athena
   jekyll-feed (~> 0.6)
   tzinfo-data
