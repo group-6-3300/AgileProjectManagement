@@ -30,7 +30,7 @@ Founded in 1969, the project management institute (PMI), is now the leading not-
 In 1985, Eliyahu M. Goldratt, an Israeli Business Management Export published The Goal (Landau 2018). In the book, many methods and ideas for project management were explored, particularly a handful of assertions regarding the theory of constraints. Essentially, the theory of constraints is the idea that each individual constraint is an obstacle blocking management systems from achieving their ultimate goals (Landau 2018). It operates of the assumption that organizations are managed through the metrics of Throughput, Operational Expenses and Investment. Throughput is the rate at which you spend, earn and invest, and can be measured through profit, Investment Returns, Productivity and Investment Turns. Operational Expenses are the amount of money that is used to create new goal units, and investment is the next amount of currency invested in infrastructure.
 Constraints can be damaging to each one of these metrics, but what is a constraint? A constraint is anything that limits the productivity or established scope of a project. They can be both internal and external, ranging from market demands to production surpluses. Once a constraint is identified, Focused Processing (the method used to find and isolate constraints) is used to alleviate the issue, the team will decide upon the best way to exploit it within the available resources, and distribute the solution to all portions of the project, and repeat until the effects and fully eliminated.
 
-# Methodologies (waterfall, agile, scrum) (Christopher)
+# Methodologies
 There are several different methodologies when it comes to project management and development techniques.
 
 - Agile
